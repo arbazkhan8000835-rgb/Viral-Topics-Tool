@@ -46,7 +46,7 @@ keywords = [
     "Money",
     "Rich",
     "QQQM",
-    "QQQ:,
+    "QQQ",
     "SPY",
     "Social Security",
     "Tax Torpedo",
